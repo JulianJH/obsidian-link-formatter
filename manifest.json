@@ -1,0 +1,9 @@
+{
+    "id": "link-formatter",
+    "name": "Link Formatter",
+    "author": "Julian Jorgensen",
+    "description": "Simple link formatter. It renders youtube urls with the title of the video as the link",
+    "isDesktopOnly": false,
+    "version": "0.1",
+    "js": "main.js"
+}
